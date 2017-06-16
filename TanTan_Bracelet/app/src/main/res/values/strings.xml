@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MVPArms</string>
+    <!--  首页  -->
+    <string name="home">主页</string>
+    <string name="exercise">运动</string>
+    <string name="equipment">设备</string>
+    <string name="mine">我的</string>
+    <!--  登陆  -->
+    <string name="regist">注册</string>
+    <string name="load">登陆</string>
+
+    <!--设备 -->
+    <string name="ep_setup">设备设置</string>
+    <string name="ep_search_btn"> 搜索设备</string>
+    <string name="dianliang">100%</string>
+
+</resources>

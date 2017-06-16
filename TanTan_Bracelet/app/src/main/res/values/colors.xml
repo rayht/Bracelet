@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3FA862</color>
+    <color name="colorPrimaryDark">#3FA862</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <!--  增加 按钮 颜色值  -->
+    <color name="add">#4DCE13</color>
+    <!--  登陆  -->
+    <color name="green">#87C938</color>
+    <color name="black_444444">#444444</color>
+
+    <color name="greenBtnNormal">#7CBC30</color>
+    <color name="greenBtnPressed">#538814</color>
+    <!--EpList奇数颜色 -->
+    <color name="epListOdd">#D8D8D8</color>
+    <!--EpList偶数颜色 -->
+    <color name="epListEven">#EEEEEE</color>
+</resources>
